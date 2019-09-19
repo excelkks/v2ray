@@ -1,11 +1,11 @@
 # v2ray
 
 #### open from web
-http://\<IP\>:65432
+`http://\<IP\>:65432`
   
-**default web port:**  65432
+**default web port:**  `65432`
 
-**default ID:** admin  **password:** admin
+**default ID:** `admin`  **password:** `admin`
   
   
 #### setup
